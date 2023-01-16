@@ -7,10 +7,14 @@ header {
     font-size: xx-large;
 }
 
-header.container-fluid {
-    background-color: #B3EDFC;
-}
-
 nav div.container-fluid {
     background-color: #CBD0D1;
+}
+
+header.container-fluid {
+    text-align: left;
+}
+
+.nav-item {
+    /*width: 25%;*/
 }
