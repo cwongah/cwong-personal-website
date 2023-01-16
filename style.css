@@ -6,3 +6,11 @@ body {
 header {
     font-size: xx-large;
 }
+
+header.container-fluid {
+    background-color: #B3EDFC;
+}
+
+nav div.container-fluid {
+    background-color: #CBD0D1;
+}
