@@ -1,18 +1,50 @@
+/*General Foramtting*/
+
 body {
-    background: #C5EFF9;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+/*Header*/
 
 header {
     font-size: xx-large;
     background-color: white;
+    padding-top: 10px;
+    padding-bottom: 2px;
 }
+
+/*Navbar*/
 
 nav div.container-fluid {
     background-color: #CBD0D1;
 }
 
-header.container-fluid {
-    text-align: left;
+/*Homepage Containers*/
+
+div.container {
+    background-color: black;
+    opacity: 75%;
+    width: 50%;
+    margin-right: 5%;
+    margin-top: 20%;
 }
 
+div.container h1 {
+    color: white;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+div.container p {
+    color: white;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    text-align: right;
+}
+
+/*About Me Containers*/
+
+h1.abouthome {
+    color: black;
+}
