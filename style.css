@@ -27,9 +27,10 @@ div.container {
     width: 50%;
     margin-right: 5%;
     margin-top: 20%;
+    border-radius: 25px;
 }
 
-div.container h1 {
+#home {
     color: white;
     padding-bottom: 10%;
     padding-top: 10%;
@@ -45,6 +46,9 @@ div.container p {
 
 /*About Me Containers*/
 
-h1.abouthome {
-    color: black;
+#aboutme {
+    color: white;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    padding-left: 10%;;
 }
